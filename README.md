@@ -1,2 +1,2 @@
-# mt798x-warp-collections
-mtk vendor warp version driver packages collections
+# mt79xx-warp-collections
+mtk vendor version warp driver packages collections
